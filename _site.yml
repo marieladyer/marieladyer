@@ -1,0 +1,11 @@
+name: "marieladyer"
+output_dir: "."
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"  #lists pages that will be in the menu; name of page 
+      href: index.html   #name of Rmd file but type .html
+    - text: "About"  #if something doesn't work somewhere it is probably bc R is case sensitive, so titled should be lowercase
+      href: about.html
+    - text: "Dyer"  
+      href: dyer.html
