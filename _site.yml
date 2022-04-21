@@ -1,5 +1,6 @@
 name: "marieladyer"
 output_dir: "."
+theme: slate 
 navbar:
   title: "My Website"
   left:
